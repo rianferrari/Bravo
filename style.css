@@ -1,0 +1,36 @@
+.card {
+    background-color: lightblue; 
+    width: 400px; 
+    padding: 20px; 
+    border: 2px solid darkblue; 
+    border-radius: 5px ;
+    margin-top: 2px;
+    
+}   
+.card2 {
+    background-color: lightpink;
+    width: 400px; 
+    padding: 20px; 
+    border: 2px solid darkmagenta; 
+    border-radius: 5px ; 
+    margin-top: 50px;
+}
+.avatar {
+    background-color: darkblue; 
+    width: 50px; 
+    height: 50px; 
+    border-radius: 50px;
+}
+.avatar2 {
+    background-color: darkmagenta; 
+    width: 50px; 
+    height: 50px; 
+    border-radius: 50px;
+}
+
+.destaque {
+    color: darkblue;
+}
+.destaque2 {
+    color: darkmagenta;
+}
